@@ -1,0 +1,12 @@
+{
+  "name": "medium-count-endpoint-invocations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":  "./deploy.sh",
+    "deployment:delete": "deployment-delete.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
